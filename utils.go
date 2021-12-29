@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 )
 
 // fatal prints the error's details if it is a libcontainer specific error type
